@@ -28,21 +28,21 @@ p{
 	margin: 100px auto;	
 }
 
-#blue-bold{
-	color: #0000ff;
-	font-weight: lighter;
+#purple-bold{
+	color: ##C39BD3;
+	font-weight: bold;
 	font-style: oblique;
 }
 #red-bold{
-	color: #FF0000;
+	color: ##D98880;
 	font-weight: bold;
-	font-style: oblique; 
+	font-style: italic; 
 }
 
-#green-bold{
-	color: #145A32;
-	font-weight: bolder;
-	font-style: oblique;
+#blue-bold{
+	color: #AED6F1;
+	font-weight: bold;
+	font-style: normal;
 }
 
 .center{
