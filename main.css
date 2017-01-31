@@ -31,7 +31,7 @@ p{
 #purple-bold{
 	color: ##C39BD3;
 	font-weight: bold;
-	font-style: oblique;
+	font-style: italic;
 }
 #red-bold{
 	color: ##D98880;
@@ -42,7 +42,7 @@ p{
 #blue-bold{
 	color: #AED6F1;
 	font-weight: bold;
-	font-style: normal;
+	font-style: italic;
 }
 
 .center{
